@@ -63,25 +63,25 @@ To achieve this goal, the areas we will focus on when developing our future vers
 
 We aim to empower educators and learners to shape their learning according to their imagination and aspirations, leading to a more inclusive and personalised educational experience. This will be achieved through:
 
-- Optimisation of our current course interface and activities
-- Introduction of new course experiences
-- Diversification of content creation options
+- Optimisation of our current course interface and activities.
+- Introduction of new course experiences.
+- Diversification of content creation options.
 
 ### Facilitating Collaboration
 
 We will focus on enabling supportive and connected learning environments by continuously improving Moodle's ability to integrate and collaborate effectively with other solutions and leverage common standards. This will be achieved through:
 
-- Supporting plugin development
-- Leveraging of common standards
-- Capitalising on open source solutions
+- Supporting plugin development.
+- Leveraging of common standards.
+- Capitalising on open source solutions.
 
 ### Optimising outcomes
 
 Providing our users with tools that optimise their efforts is paramount. We aim to create a toolset that not only reduces the time and cost of managing and creating courses but also helps learners overcome challenges more effectively. This will be achieved through:
 
-- Ecosystem support for advanced analytics
-- A more modern & leaner platform
-- New tools to support learners
+- Ecosystem support for advanced analytics.
+- A more modern & leaner platform.
+- New tools to support learners.
 
 ## Where can I find out more?
 
